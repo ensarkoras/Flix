@@ -1,3 +1,6 @@
+# localStorage, youtubeAPI, ombdAPI kullanıldı.
+
+
 # flix
 
 ## Project setup
